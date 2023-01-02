@@ -25,4 +25,3 @@ def gabiclean():
                 print(assign)
 
 
-gabiclean() 
