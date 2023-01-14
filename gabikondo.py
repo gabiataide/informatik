@@ -2,7 +2,7 @@ import random
 
 chores = ["Clean WC", "Laundry (Bedding)", "Relax", "Laundry (Clothes)", "Vacuuming", "Grocery shopping",
           "Fold Clothes (if any)", "Meal Prep", "Clean Shower", "Change Bedsheets", "Relax", "Reorganize Cabinet Contents", "Relax",
-          "Clean Kitchen", "Mop Floors", "Relax", "Dust the Living Room", "Relax", "Declutter Living Room"]
+          "Clean Kitchen", "Mop Floors", "Relax", "Dust the Living Room", "Relax", "Declutter Living Room", "Desinfect Toothbrushes", "Clean Fridge"]
 week = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
 
 random.shuffle(chores)
