@@ -9,10 +9,10 @@ random.shuffle(chores)
 
 
 class GabiKondo:
+          
     """
     A class used to distribute household chores to up to 3 users.
-
-    A
+    (And if your name is Jonas, you'll have more work to do #sorry)
     """
 
     def __init__(self):
